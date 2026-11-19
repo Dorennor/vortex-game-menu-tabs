@@ -1,0 +1,8 @@
+{
+  "id": "Game Menu Tabs",
+  "namespace": "game-menu-tabs",
+  "name": "Game Menu Tabs",
+  "author": "Volodymyr Rud",
+  "version": "1.0.0",
+  "description": "Reorder and hide the tabs in Vortex's per-game menu (Browse, Mods, Collections...) and open games on the tab you choose."
+}
